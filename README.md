@@ -20,7 +20,7 @@ Avoiding unnecessary scope expansion that leads to increased costs.
 Negotiating contracts effectively to prevent unexpected expenses.  
 
 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-Agile moethodolgy is a principle where the project is broken into sprints and each part is developed, tested and delivered incrementally
+Agile is a principle where the project is broken into sprints and each part is developed, tested and delivered incrementally
 allowing for flexibility and continous development.
 Advantages of Agile:
 Flexibility & Adaptability: Since it works in short cycles (sprints), the project can adapt to changes in requirements, priorities, or external factors.
